@@ -1,0 +1,20 @@
+{
+  "schemaName": "complispaceExtensions",
+  "fields": [
+    {
+      "fieldName": "objectGUID",
+      "fieldType": "STRING",
+      "multiValued": "false"
+    },
+    {
+      "fieldName": "policyplusGroups",
+      "fieldType": "STRING",
+      "multiValued": "true"
+    },
+    {
+      "fieldName": "assuranceGroups",
+      "fieldType": "STRING",
+      "multiValued": "true"
+    }
+  ]
+}
